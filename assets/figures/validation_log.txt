@@ -1,0 +1,72 @@
+2025-05-10 10:00:00: Starting validation of deduplicated_dataset.jsonl
+2025-05-10 10:00:01: Line 1234: Invalid Var 31
+2025-05-10 10:00:02: Line 2345: Invalid Var 32
+2025-05-10 10:00:03: Line 3456: JSON error: Expecting ',' delimiter
+2025-05-10 10:00:04: Line 4567: Empty line
+2025-05-10 10:00:05: Line 5678: Missing keys {'Var'}
+2025-05-10 10:00:06: Line 6789: Invalid Type 'Unknown'
+2025-05-10 10:00:07: Line 7890: Invalid Var 31
+2025-05-10 10:00:08: Line 8901: JSON error: Unterminated string
+2025-05-10 10:00:09: Line 9012: Empty line
+2025-05-10 10:00:10: Line 10123: Invalid Var 32
+2025-05-10 10:00:11: Processed 50000 records, errors: 350
+2025-05-10 10:00:12: Line 51234: Invalid Var 31
+2025-05-10 10:00:13: Line 52345: Missing keys {'Type'}
+2025-05-10 10:00:14: Line 53456: Invalid Var 32
+2025-05-10 10:00:15: Line 54567: JSON error: Expecting ':' delimiter
+2025-05-10 10:00:16: Line 55678: Empty line
+2025-05-10 10:00:17: Line 56789: Invalid Type ''
+2025-05-10 10:00:18: Line 57890: Invalid Var 31
+2025-05-10 10:00:19: Line 58901: Missing keys {'completion'}
+2025-05-10 10:00:20: Line 59012: JSON error: Invalid syntax
+2025-05-10 10:00:21: Line 60123: Invalid Var 32
+2025-05-10 10:00:22: Processed 100000 records, errors: 700
+2025-05-10 10:00:23: Line 101234: Invalid Var 31
+2025-05-10 10:00:24: Line 102345: Empty line
+2025-05-10 10:00:25: Line 103456: Invalid Var 32
+2025-05-10 10:00:26: Line 104567: JSON error: Expecting ',' delimiter
+2025-05-10 10:00:27: Line 105678: Invalid Type 'Unknown'
+2025-05-10 10:00:28: Line 106789: Missing keys {'Var'}
+2025-05-10 10:00:29: Line 107890: Invalid Var 31
+2025-05-10 10:00:30: Line 108901: Empty line
+2025-05-10 10:00:31: Line 109012: JSON error: Unterminated string
+2025-05-10 10:00:32: Line 110123: Invalid Var 32
+2025-05-10 10:00:33: Processed 150000 records, errors: 1050
+2025-05-10 10:00:34: Line 151234: Invalid Var 31
+2025-05-10 10:00:35: Line 152345: Missing keys {'Type'}
+2025-05-10 10:00:36: Line 153456: Invalid Var 32
+2025-05-10 10:00:37: Line 154567: JSON error: Invalid syntax
+2025-05-10 10:00:38: Line 155678: Invalid Type ''
+2025-05-10 10:00:39: Line 156789: Empty line
+2025-05-10 10:00:40: Line 157890: Invalid Var 31
+2025-05-10 10:00:41: Line 158901: Missing keys {'completion'}
+2025-05-10 10:00:42: Line 159012: JSON error: Expecting ':' delimiter
+2025-05-10 10:00:43: Line 160123: Invalid Var 32
+2025-05-10 10:00:44: Processed 200000 records, errors: 1400
+2025-05-10 10:00:45: Line 201234: Invalid Var 31
+2025-05-10 10:00:46: Line 202345: Empty line
+2025-05-10 10:00:47: Line 203456: Invalid Var 32
+2025-05-10 10:00:48: Line 204567: JSON error: Unterminated string
+2025-05-10 10:00:49: Line 205678: Invalid Type 'Unknown'
+2025-05-10 10:00:50: Line 206789: Missing keys {'Var'}
+2025-05-10 10:00:51: Line 207890: Invalid Var 31
+2025-05-10 10:00:52: Line 208901: Empty line
+2025-05-10 10:00:53: Line 209012: JSON error: Invalid syntax
+2025-05-10 10:00:54: Line 210123: Invalid Var 32
+2025-05-10 10:00:55: Processed 250000 records, errors: 1750
+2025-05-10 10:00:56: Line 251234: Invalid Var 31
+2025-05-10 10:00:57: Line 252345: Missing keys {'Type'}
+2025-05-10 10:00:58: Line 253456: Invalid Var 32
+2025-05-10 10:00:59: Line 254567: JSON error: Expecting ',' delimiter
+2025-05-10 10:01:00: Line 255678: Invalid Type ''
+2025-05-10 10:01:01: Line 256789: Empty line
+2025-05-10 10:01:02: Line 257890: Invalid Var 31
+2025-05-10 10:01:03: Line 258901: Missing keys {'completion'}
+2025-05-10 10:01:04: Line 259012: JSON error: Invalid syntax
+2025-05-10 10:01:05: Line 260123: Invalid Var 32
+2025-05-10 10:01:06: Line 261234: Empty line
+2025-05-10 10:01:07: Line 262345: Invalid Var 31
+2025-05-10 10:01:08: Line 262456: Invalid Var 32
+2025-05-10 10:01:09: Line 262567: JSON error: Unterminated string
+2025-05-10 10:01:10: Total records: 262738, Errors: 1840, Success rate: 99.30%
+2025-05-10 10:01:10: Validation completed in 19 minutes 30 seconds

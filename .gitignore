@@ -1,0 +1,13 @@
+*.jsonl
+.csv
+data/
+synthetic_sample.jsonl
+models/
+*.safetensors
+*.pyc
+pycache/
+*.log
+.venv/
+.env
+*.ipynb_checkpoints/
+.vscode/
